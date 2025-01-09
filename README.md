@@ -1,1 +1,2 @@
 # odin-recipes
+Creating my first HTML project by building a basic recipe website. The website will consist of a main index page which will have links to a few recipes. Will revists this project in the future to style it up with CSS and possibly to reflect on my web dev progress. 01/09/2025 (Panera Bread).
